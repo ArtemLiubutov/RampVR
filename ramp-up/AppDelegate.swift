@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Ramp
+//  ramp-up
 //
-//  Created by Artem Lubytov on 27.10.2017.
-//  Copyright © 2017 Artem Lubytov. All rights reserved.
+//  Created by Mark Price on 7/19/17.
+//  Copyright © 2017 Devslopes. All rights reserved.
 //
 
 import UIKit

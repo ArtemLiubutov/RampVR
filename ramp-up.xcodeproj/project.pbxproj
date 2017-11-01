@@ -7,31 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7F2741AC1FA79D1B0031BDF0 /* RampPickerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F2741AB1FA79D1B0031BDF0 /* RampPickerVC.swift */; };
-		7F9F06071FA3637B0002E5B4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9F06061FA3637B0002E5B4 /* AppDelegate.swift */; };
-		7F9F06091FA3637B0002E5B4 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F06081FA3637B0002E5B4 /* art.scnassets */; };
-		7F9F060B1FA3637B0002E5B4 /* RampPlayerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9F060A1FA3637B0002E5B4 /* RampPlayerVC.swift */; };
-		7F9F060E1FA3637B0002E5B4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F060C1FA3637B0002E5B4 /* Main.storyboard */; };
-		7F9F06101FA3637B0002E5B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F060F1FA3637B0002E5B4 /* Assets.xcassets */; };
-		7F9F06131FA3637B0002E5B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F06111FA3637B0002E5B4 /* LaunchScreen.storyboard */; };
-		7FA225A11FA86E7D0020B791 /* ramps.scn in Resources */ = {isa = PBXBuildFile; fileRef = 7FA225A01FA86E7D0020B791 /* ramps.scn */; };
+		897FD7231F1FDF8A00B1CDC1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897FD7221F1FDF8A00B1CDC1 /* AppDelegate.swift */; };
+		897FD7251F1FDF8A00B1CDC1 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 897FD7241F1FDF8A00B1CDC1 /* art.scnassets */; };
+		897FD7271F1FDF8A00B1CDC1 /* RampPlacerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897FD7261F1FDF8A00B1CDC1 /* RampPlacerVC.swift */; };
+		897FD72A1F1FDF8A00B1CDC1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 897FD7281F1FDF8A00B1CDC1 /* Main.storyboard */; };
+		897FD72C1F1FDF8A00B1CDC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 897FD72B1F1FDF8A00B1CDC1 /* Assets.xcassets */; };
+		897FD72F1F1FDF8A00B1CDC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 897FD72D1F1FDF8A00B1CDC1 /* LaunchScreen.storyboard */; };
+		898681681F205602003D4526 /* Ramp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898681671F205602003D4526 /* Ramp.swift */; };
+		89B1D34F1F1FEDB70071EB65 /* RampPickerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B1D34E1F1FEDB70071EB65 /* RampPickerVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7F2741AB1FA79D1B0031BDF0 /* RampPickerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RampPickerVC.swift; sourceTree = "<group>"; };
-		7F9F06031FA3637B0002E5B4 /* Ramp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ramp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7F9F06061FA3637B0002E5B4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7F9F06081FA3637B0002E5B4 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
-		7F9F060A1FA3637B0002E5B4 /* RampPlayerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RampPlayerVC.swift; sourceTree = "<group>"; };
-		7F9F060D1FA3637B0002E5B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		7F9F060F1FA3637B0002E5B4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		7F9F06121FA3637B0002E5B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7F9F06141FA3637B0002E5B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7FA225A01FA86E7D0020B791 /* ramps.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = ramps.scn; path = art.scnassets/ramps.scn; sourceTree = "<group>"; };
+		897FD71F1F1FDF8A00B1CDC1 /* ramp-up.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ramp-up.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		897FD7221F1FDF8A00B1CDC1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		897FD7241F1FDF8A00B1CDC1 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
+		897FD7261F1FDF8A00B1CDC1 /* RampPlacerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RampPlacerVC.swift; sourceTree = "<group>"; };
+		897FD7291F1FDF8A00B1CDC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		897FD72B1F1FDF8A00B1CDC1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		897FD72E1F1FDF8A00B1CDC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		897FD7301F1FDF8A00B1CDC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		898681671F205602003D4526 /* Ramp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ramp.swift; sourceTree = "<group>"; };
+		89B1D34E1F1FEDB70071EB65 /* RampPickerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RampPickerVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7F9F06001FA3637B0002E5B4 /* Frameworks */ = {
+		897FD71C1F1FDF8A00B1CDC1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,83 +41,90 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7F2741AA1FA79CE00031BDF0 /* Controller */ = {
+		897FD7161F1FDF8A00B1CDC1 = {
 			isa = PBXGroup;
 			children = (
-				7F9F060A1FA3637B0002E5B4 /* RampPlayerVC.swift */,
-				7F2741AB1FA79D1B0031BDF0 /* RampPickerVC.swift */,
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		7F9F05FA1FA3637B0002E5B4 = {
-			isa = PBXGroup;
-			children = (
-				7F9F06051FA3637B0002E5B4 /* Ramp */,
-				7F9F06041FA3637B0002E5B4 /* Products */,
+				897FD7211F1FDF8A00B1CDC1 /* ramp-up */,
+				897FD7201F1FDF8A00B1CDC1 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		7F9F06041FA3637B0002E5B4 /* Products */ = {
+		897FD7201F1FDF8A00B1CDC1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7F9F06031FA3637B0002E5B4 /* Ramp.app */,
+				897FD71F1F1FDF8A00B1CDC1 /* ramp-up.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7F9F06051FA3637B0002E5B4 /* Ramp */ = {
+		897FD7211F1FDF8A00B1CDC1 /* ramp-up */ = {
 			isa = PBXGroup;
 			children = (
-				7F2741AA1FA79CE00031BDF0 /* Controller */,
-				7F9F06061FA3637B0002E5B4 /* AppDelegate.swift */,
-				7F9F06081FA3637B0002E5B4 /* art.scnassets */,
-				7F9F060C1FA3637B0002E5B4 /* Main.storyboard */,
-				7F9F060F1FA3637B0002E5B4 /* Assets.xcassets */,
-				7F9F06111FA3637B0002E5B4 /* LaunchScreen.storyboard */,
-				7F9F06141FA3637B0002E5B4 /* Info.plist */,
-				7FA225A01FA86E7D0020B791 /* ramps.scn */,
+				898681661F2055F2003D4526 /* Model */,
+				89B1D34D1F1FE1220071EB65 /* Controller */,
+				897FD7221F1FDF8A00B1CDC1 /* AppDelegate.swift */,
+				897FD7241F1FDF8A00B1CDC1 /* art.scnassets */,
+				897FD7281F1FDF8A00B1CDC1 /* Main.storyboard */,
+				897FD72B1F1FDF8A00B1CDC1 /* Assets.xcassets */,
+				897FD72D1F1FDF8A00B1CDC1 /* LaunchScreen.storyboard */,
+				897FD7301F1FDF8A00B1CDC1 /* Info.plist */,
 			);
-			path = Ramp;
+			path = "ramp-up";
+			sourceTree = "<group>";
+		};
+		898681661F2055F2003D4526 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				898681671F205602003D4526 /* Ramp.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		89B1D34D1F1FE1220071EB65 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				897FD7261F1FDF8A00B1CDC1 /* RampPlacerVC.swift */,
+				89B1D34E1F1FEDB70071EB65 /* RampPickerVC.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7F9F06021FA3637B0002E5B4 /* Ramp */ = {
+		897FD71E1F1FDF8A00B1CDC1 /* ramp-up */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7F9F06171FA3637B0002E5B4 /* Build configuration list for PBXNativeTarget "Ramp" */;
+			buildConfigurationList = 897FD7331F1FDF8A00B1CDC1 /* Build configuration list for PBXNativeTarget "ramp-up" */;
 			buildPhases = (
-				7F9F05FF1FA3637B0002E5B4 /* Sources */,
-				7F9F06001FA3637B0002E5B4 /* Frameworks */,
-				7F9F06011FA3637B0002E5B4 /* Resources */,
+				897FD71B1F1FDF8A00B1CDC1 /* Sources */,
+				897FD71C1F1FDF8A00B1CDC1 /* Frameworks */,
+				897FD71D1F1FDF8A00B1CDC1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Ramp;
-			productName = Ramp;
-			productReference = 7F9F06031FA3637B0002E5B4 /* Ramp.app */;
+			name = "ramp-up";
+			productName = "ramp-up";
+			productReference = 897FD71F1F1FDF8A00B1CDC1 /* ramp-up.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		7F9F05FB1FA3637B0002E5B4 /* Project object */ = {
+		897FD7171F1FDF8A00B1CDC1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
 				LastUpgradeCheck = 0900;
-				ORGANIZATIONNAME = "Artem Lubytov";
+				ORGANIZATIONNAME = Devslopes;
 				TargetAttributes = {
-					7F9F06021FA3637B0002E5B4 = {
+					897FD71E1F1FDF8A00B1CDC1 = {
 						CreatedOnToolsVersion = 9.0;
-						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 7F9F05FE1FA3637B0002E5B4 /* Build configuration list for PBXProject "Ramp" */;
+			buildConfigurationList = 897FD71A1F1FDF8A00B1CDC1 /* Build configuration list for PBXProject "ramp-up" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -125,57 +132,57 @@
 				en,
 				Base,
 			);
-			mainGroup = 7F9F05FA1FA3637B0002E5B4;
-			productRefGroup = 7F9F06041FA3637B0002E5B4 /* Products */;
+			mainGroup = 897FD7161F1FDF8A00B1CDC1;
+			productRefGroup = 897FD7201F1FDF8A00B1CDC1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7F9F06021FA3637B0002E5B4 /* Ramp */,
+				897FD71E1F1FDF8A00B1CDC1 /* ramp-up */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		7F9F06011FA3637B0002E5B4 /* Resources */ = {
+		897FD71D1F1FDF8A00B1CDC1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7F9F06091FA3637B0002E5B4 /* art.scnassets in Resources */,
-				7F9F06131FA3637B0002E5B4 /* LaunchScreen.storyboard in Resources */,
-				7F9F06101FA3637B0002E5B4 /* Assets.xcassets in Resources */,
-				7F9F060E1FA3637B0002E5B4 /* Main.storyboard in Resources */,
-				7FA225A11FA86E7D0020B791 /* ramps.scn in Resources */,
+				897FD7251F1FDF8A00B1CDC1 /* art.scnassets in Resources */,
+				897FD72F1F1FDF8A00B1CDC1 /* LaunchScreen.storyboard in Resources */,
+				897FD72C1F1FDF8A00B1CDC1 /* Assets.xcassets in Resources */,
+				897FD72A1F1FDF8A00B1CDC1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		7F9F05FF1FA3637B0002E5B4 /* Sources */ = {
+		897FD71B1F1FDF8A00B1CDC1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7F9F060B1FA3637B0002E5B4 /* RampPlayerVC.swift in Sources */,
-				7F2741AC1FA79D1B0031BDF0 /* RampPickerVC.swift in Sources */,
-				7F9F06071FA3637B0002E5B4 /* AppDelegate.swift in Sources */,
+				897FD7271F1FDF8A00B1CDC1 /* RampPlacerVC.swift in Sources */,
+				898681681F205602003D4526 /* Ramp.swift in Sources */,
+				89B1D34F1F1FEDB70071EB65 /* RampPickerVC.swift in Sources */,
+				897FD7231F1FDF8A00B1CDC1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		7F9F060C1FA3637B0002E5B4 /* Main.storyboard */ = {
+		897FD7281F1FDF8A00B1CDC1 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7F9F060D1FA3637B0002E5B4 /* Base */,
+				897FD7291F1FDF8A00B1CDC1 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		7F9F06111FA3637B0002E5B4 /* LaunchScreen.storyboard */ = {
+		897FD72D1F1FDF8A00B1CDC1 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7F9F06121FA3637B0002E5B4 /* Base */,
+				897FD72E1F1FDF8A00B1CDC1 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -183,7 +190,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		7F9F06151FA3637B0002E5B4 /* Debug */ = {
+		897FD7311F1FDF8A00B1CDC1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -240,7 +247,7 @@
 			};
 			name = Debug;
 		};
-		7F9F06161FA3637B0002E5B4 /* Release */ = {
+		897FD7321F1FDF8A00B1CDC1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -290,30 +297,28 @@
 			};
 			name = Release;
 		};
-		7F9F06181FA3637B0002E5B4 /* Debug */ = {
+		897FD7341F1FDF8A00B1CDC1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5J8N672PJG;
-				INFOPLIST_FILE = Ramp/Info.plist;
+				INFOPLIST_FILE = "ramp-up/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.rocketapp.Ramp;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rocketapp.ramp-up";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		7F9F06191FA3637B0002E5B4 /* Release */ = {
+		897FD7351F1FDF8A00B1CDC1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5J8N672PJG;
-				INFOPLIST_FILE = Ramp/Info.plist;
+				INFOPLIST_FILE = "ramp-up/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.rocketapp.Ramp;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rocketapp.ramp-up";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -323,25 +328,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7F9F05FE1FA3637B0002E5B4 /* Build configuration list for PBXProject "Ramp" */ = {
+		897FD71A1F1FDF8A00B1CDC1 /* Build configuration list for PBXProject "ramp-up" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7F9F06151FA3637B0002E5B4 /* Debug */,
-				7F9F06161FA3637B0002E5B4 /* Release */,
+				897FD7311F1FDF8A00B1CDC1 /* Debug */,
+				897FD7321F1FDF8A00B1CDC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7F9F06171FA3637B0002E5B4 /* Build configuration list for PBXNativeTarget "Ramp" */ = {
+		897FD7331F1FDF8A00B1CDC1 /* Build configuration list for PBXNativeTarget "ramp-up" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7F9F06181FA3637B0002E5B4 /* Debug */,
-				7F9F06191FA3637B0002E5B4 /* Release */,
+				897FD7341F1FDF8A00B1CDC1 /* Debug */,
+				897FD7351F1FDF8A00B1CDC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 7F9F05FB1FA3637B0002E5B4 /* Project object */;
+	rootObject = 897FD7171F1FDF8A00B1CDC1 /* Project object */;
 }
